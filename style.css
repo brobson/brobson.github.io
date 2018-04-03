@@ -60,7 +60,7 @@ ul {
 .jobtable {
     display: table;
     width: 100%;
-    border-bottom: 1px solid black;
+    /* border-bottom: 1px solid black; */
 }
 
 .edtable {
